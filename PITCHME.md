@@ -26,11 +26,10 @@ Lambda is super cool processing stuff.
 
 Incoming code snippet
 
-+++?code=test.js&Title=Code Snippet
++++?code=test.js&title=Code Snippet
 
 @[1-4]test.js First Section of Code
 @[5-8]test.js Second Section of Code
 
 ----
-
 # Fin
