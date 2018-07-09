@@ -3,7 +3,7 @@ How does that shit work?
 ---
 ### AWS Services
 <br>
-Lex & Lambda
+LEX & LAMBDA
 +++
 ### Lex
 Lex is super cool AI stuff.
