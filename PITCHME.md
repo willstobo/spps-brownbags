@@ -1,22 +1,20 @@
-# MPGA Bot
+# Infra-Bot
+(AKA MPGA Bot)
 
-What is it?
+What it is and how it works.
 
 ---
-
 ### Lex & Lambda
 
 - Lex
 - Lambda
 
 +++
-
 ### Lex
 
 Lex is super cool AI stuff.
 
 +++
-
 ### Lambda
 
 Lambda is super cool processing stuff.
