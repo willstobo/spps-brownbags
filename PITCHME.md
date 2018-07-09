@@ -7,14 +7,13 @@ LEX & LAMBDA
 +++
 ### Lex
 It's the Lex in Alexa
-Builds conversational interfaces using:
+Builds conversational interfaces:
 - Automatic speech recognition (ASR)
 - Natural language understanding (NLU)
 +++
 ### Lambda
-Serverless Computing
-<br>
-Pay for only what you use
+- Serverless Computing
+- Pay for only what you use
 +++
 ### What it looks like for Infra-Bot
 ![INFRA-BOT Structure](Infra-Bot.png)
