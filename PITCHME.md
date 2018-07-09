@@ -31,5 +31,5 @@ Incoming code snippet
 @[1-4]test.js First Section of Code
 @[5-8]test.js Second Section of Code
 
-----
+---
 # Fin
