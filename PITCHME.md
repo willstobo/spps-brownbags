@@ -11,22 +11,21 @@ What is it?
 
 +++
 
-- Lex
+### Lex
 
 Lex is super cool AI stuff.
 
 +++
 
-- Lambda
+### Lambda
 
 Lambda is super cool processing stuff.
 
----?gist=spps-brownbag/test.js&lang=Scala&title=GIST: Scala Snippet
+---?code=test.js
 
 ### GitPitch is cool
 
-@[1-8]test.js
+@[1-4]test.js
 
----?code=test.js
 
 # Fin
