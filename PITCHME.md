@@ -5,7 +5,7 @@ What it is and how it works.
 
 ---
 ### Lex & Lambda
-#### AWS Services
+#### AWS Services:
 - Lex
 - Lambda
 
