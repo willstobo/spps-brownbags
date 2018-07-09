@@ -10,6 +10,18 @@ What is it?
 - Lex
 - Lambda
 
++++
+
+- Lex
+
+Lex is super cool AI stuff.
+
++++
+
+- Lambda
+
+Lambda is super cool processing stuff.
+
 ---
 
 ### GitPitch is cool
@@ -17,3 +29,5 @@ What is it?
 Super Cool
 
 ---
+
+# Fin
