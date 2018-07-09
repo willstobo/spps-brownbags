@@ -17,7 +17,7 @@ LEX & LAMBDA
 ### How does it all fit together?
 ![INFRA-BOT Structure](Infra-Bot.png)
 ---
-# Lets have a look
+## Lets have a look
 +++?code=test.js&title=Validation Lambda Changes
 @[1-4]test.js First Section of Code
 @[5-8]test.js Second Section of Code
@@ -25,4 +25,6 @@ LEX & LAMBDA
 @[1-4]test.js First Section of Code
 @[5-8]test.js Second Section of Code
 ---
-# Fin
+# Questions?
+--
+Checkout GitPitch if you likes the presentation, its super cool.
