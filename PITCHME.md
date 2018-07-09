@@ -6,10 +6,15 @@ How does that shit work?
 LEX & LAMBDA
 +++
 ### Lex
-Lex is super cool AI stuff.
+It's the Lex in Alexa
+Builds conversational interfaces using:
+- Automatic speech recognition (ASR)
+- Natural language understanding (NLU)
 +++
 ### Lambda
-Lambda is super cool processing stuff.
+Serverless Computing
+<br>
+Pay for only what you use
 +++
 ### What it looks like for Infra-Bot
 ![INFRA-BOT Structure](Infra-Bot.svg)
