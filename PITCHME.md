@@ -6,7 +6,7 @@ How does that shit work?
 LEX & LAMBDA
 +++
 ### Lex
-#### It's the Lex in Alexa
+###### It's the Lex in Alexa
 - Builds conversational interfaces
 - Automatic speech recognition (ASR)
 - Natural language understanding (NLU)
