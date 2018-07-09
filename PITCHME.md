@@ -3,10 +3,15 @@
 How does that shit work?
 
 ---
-### Lex & Lambda
-AWS Services:
+### AWS Services:
+----
+----
 - Lex
+----
+----
 - Lambda
+----
+----
 
 +++
 ### Lex
