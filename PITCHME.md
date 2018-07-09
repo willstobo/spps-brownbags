@@ -27,4 +27,4 @@ LEX & LAMBDA
 ---
 # Questions?
 ----
-Checkout GitPitch if you likes the presentation, its super cool.
+Checkout GitPitch if you liked the presentation, its super cool.
