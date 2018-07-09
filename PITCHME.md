@@ -12,7 +12,7 @@ Lex is super cool AI stuff.
 Lambda is super cool processing stuff.
 +++
 ### What it looks like for Infra-Bot
-![INFRA-BOT Structure](Infra-Bot.png)
+![INFRA-BOT Structure](Infra-Bot.svg)
 ---
 ### GitPitch is cool
 Incoming code snippet
