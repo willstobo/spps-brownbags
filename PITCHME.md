@@ -1,9 +1,9 @@
 # Infra-Bot
 How does that shit work?
 ---
-# AWS Services:
+### AWS Services
 <br>
-### Lex & Lambda
+Lex & Lambda
 +++
 ### Lex
 Lex is super cool AI stuff.
