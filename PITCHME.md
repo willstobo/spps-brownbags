@@ -1,11 +1,10 @@
 # Infra-Bot
-(AKA MPGA Bot)
 
-What it is and how it works.
+How does that shit work?
 
 ---
 ### Lex & Lambda
-#### AWS Services:
+AWS Services:
 - Lex
 - Lambda
 
