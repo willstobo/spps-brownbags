@@ -6,7 +6,6 @@ What is it?
 
 ### Lex & Lambda
 
-- AWS
 - Lex
 - Lambda
 
