@@ -25,7 +25,7 @@ Lambda is super cool processing stuff.
 
 ### GitPitch is cool
 
-@[1-9]?code=test.js
+@[1-8]test.js
 
 ---?code=test.js
 
