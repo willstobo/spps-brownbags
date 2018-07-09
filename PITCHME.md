@@ -17,7 +17,7 @@ Serverless Computing
 Pay for only what you use
 +++
 ### What it looks like for Infra-Bot
-![INFRA-BOT Structure](Infra-Bot.jpeg)
+![INFRA-BOT Structure](Infra-Bot.jpg)
 ---
 ### GitPitch is cool
 Incoming code snippet
