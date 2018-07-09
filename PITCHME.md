@@ -1,8 +1,8 @@
 # Infra-Bot
-How does that shit work?
+How does it all work?
 ---
 ### AWS Services
-LEX & LAMBDA
+LEX & LAMBDA with Slack integration
 +++
 ### Lex
 - Builds conversational interfaces
@@ -21,7 +21,7 @@ LEX & LAMBDA
 +++?code=test.js&title=Validation Lambda Changes
 @[1-4]test.js First Section of Code
 @[5-8]test.js Second Section of Code
-+++?code=test.js&title=Server Lambda Changes
++++?code=test.js&title=Processing Lambda Changes
 @[1-4]test.js First Section of Code
 @[5-8]test.js Second Section of Code
 ---
