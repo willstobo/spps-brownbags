@@ -1,3 +1,4 @@
+@title[INFRA-BOT]
 # Infra-Bot
 How does that shit work?
 ---
@@ -10,6 +11,9 @@ Lex is super cool AI stuff.
 +++
 ### Lambda
 Lambda is super cool processing stuff.
++++
+### What it looks like for Infra-Bot
+!
 ---
 ### GitPitch is cool
 Incoming code snippet
