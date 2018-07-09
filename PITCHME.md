@@ -25,7 +25,7 @@ Lambda is super cool processing stuff.
 
 ### GitPitch is cool
 
-@[1-9]test.js
+@[1-9]spps-brownbags/test.js
 
 ---
 
