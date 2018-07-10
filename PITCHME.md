@@ -18,9 +18,6 @@ LEX & LAMBDA
 ![INFRA-BOT Structure](Infra-Bot.png)
 ---
 ## Lets have a look
-+++?code=test.js&title=Validation Lambda Changes
-@[1-4]test.js First Section of Code
-@[5-8]test.js Second Section of Code
 +++?code=test.js&title=Processing Lambda Changes
 @[1-4]test.js First Section of Code
 @[5-8]test.js Second Section of Code
