@@ -18,7 +18,7 @@ LEX & LAMBDA
 ![INFRA-BOT Structure](Infra-Bot.png)
 ---
 ## Lets have a look
-+++?code=test.js&title=Processing Lambda Changes
+@size[12](+++?code=test.js&title=Processing Lambda Changes)
 @[25-27]test.js First Section of Code
 ---
 # Questions?
