@@ -1,3 +1,4 @@
 #Look-and-Feel
 theme : moon
-highlight : monokai
+highlight : mono-blue
+code-line-numbers : true
