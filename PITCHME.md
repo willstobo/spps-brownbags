@@ -2,7 +2,7 @@
 How does it all work?
 ---
 ### AWS Services
-LEX & LAMBDA with Slack integration
+LEX & LAMBDA
 +++
 ### Lex
 - Builds conversational interfaces
@@ -26,5 +26,4 @@ LEX & LAMBDA with Slack integration
 @[5-8]test.js Second Section of Code
 ---
 # Questions?
----
-Checkout GitPitch if you liked the presentation, its super cool.
++++?code=PITCHME.md&title=Git Pitch
