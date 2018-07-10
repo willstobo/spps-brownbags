@@ -26,4 +26,4 @@ LEX & LAMBDA
 @[5-8]test.js Second Section of Code
 ---
 # Questions?
-+++?code=PITCHME.md&title=Git Pitch
++++?code=PITCHME.md&lang=markdown&title=Git Pitch
