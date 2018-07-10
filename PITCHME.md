@@ -19,8 +19,7 @@ LEX & LAMBDA
 ---
 ## Lets have a look
 +++?code=test.js&title=Processing Lambda Changes
-@[1-4]test.js First Section of Code
-@[5-8]test.js Second Section of Code
+@[25-27]test.js First Section of Code
 ---
 # Questions?
 +++?code=PITCHME.md&lang=markdown&title=Git Pitch

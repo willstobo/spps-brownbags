@@ -22,6 +22,9 @@ exports.handler = (event, context, callback) => {
             } else if (intentName == "infrabotNorthKorea"){
                 var northKoreaResponses = responseFile["NorthKorea"];
                 common.logAndExit(null,null,"Intent: "+intentName+" triggered.",northKoreaResponses[Math.floor(Math.random()*northKoreaResponses.length)],callback); 
+            } else if (intentName == "infrabotTacos"){
+                var tacoResponses = responseFile["Tacos"];
+                common.logAndExit(null,null,"Intent: "+intentName+" triggered.",northKoreaResponses[Math.floor(Math.random()*tacoResponses.length)],callback); 
             } else if (intentName == "infrabotHelp"){
                 var helpResponse = responseFile["Help"];
                 var numb = Math.floor((Math.random()*10)+1);
