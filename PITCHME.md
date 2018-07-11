@@ -26,4 +26,4 @@ LEX & LAMBDA
 @[25-27]test.js First Section of Code
 ---
 # Questions?
-+++?code=PITCHME.md&lang=markdown&title=Git Pitch
++++?code=PITCHME.md&lang=markdown&title=Extra: Git Pitch is really cool.
