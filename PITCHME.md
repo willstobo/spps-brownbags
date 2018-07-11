@@ -1,7 +1,12 @@
 # Infra-Bot
 How does it all work?
 ---
-### AWS Services
+## Contents
+- AWS Services
+- How it all fits together
+- Demo
+---
+## AWS Services
 LEX & LAMBDA
 +++
 ## Lex
