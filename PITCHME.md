@@ -4,14 +4,14 @@ How does it all work?
 ### AWS Services
 LEX & LAMBDA
 +++
-### Lex
+## Lex
 @ul
 - Builds conversational interfaces
 - Automatic speech recognition (ASR)
 - Natural language understanding (NLU)
 @ulend
 +++
-### Lambda
+## Lambda
 @ul
 - Serverless Computing
 - Pay for only what you use
