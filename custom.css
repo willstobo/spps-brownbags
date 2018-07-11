@@ -4,13 +4,6 @@
 }
   
 .reveal pre {
-    font-size: 10px;
-    width: 120%;
-    margin-left: -10%;
-}
-
-.reveal code {
-    font-size: 10px;
     width: 120%;
     margin-left: -10%;
 }
