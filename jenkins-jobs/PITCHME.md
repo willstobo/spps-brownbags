@@ -3,14 +3,13 @@
 The link between environments
 ---
 ## Contents
-@ul
 - Jenkins
 - Deployment Pipelines
+- Pega Deployment Jobs
 - Pega Deployment Pipeline
-- Qlik Deployment Pipeline
+- Qlik Deployment Jobs
 - Reporting Template Deployments
 - Bitbucket webhooks
-@ulend
 ---
 ## Jenkins
 Our deployment tool for SPPS
@@ -19,12 +18,17 @@ Jobs are either bash scripts or python scripts
 ## Deployment Pipelines
 ![Pipelines for our major applications](DeploymentPipelines.png)
 +++
-## Pega Deployment Pipeline
+## Pega Deployment Jobs
 @ul
 - bash scripts using prpcUtils pega script
 @ulend
 +++
-## Qlik Deployment Pipeline
+## Pega Deployment Pipeline
+@ul
+- Groovy Script linking existing jenkins jobs together
+@ulend
++++
+## Qlik Deployment Jobs
 @ul
 - python scripts using Qlik api's
 @ulend
