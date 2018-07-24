@@ -13,14 +13,20 @@ The link between environments
 ---
 ## Jenkins
 Our deployment tool for SPPS
-Jobs are either bash scripts or python scripts
+Jobs are configured with 
+- Parameters
+- Triggers
+- Build Scripts
+- Post Build Scripts
 ---
 ## Deployment Pipelines
 ![Pipelines for our major applications](DeploymentPipelines.png)
 +++
 ## Pega Deployment Jobs
 @ul
-- bash scripts using prpcUtils pega script
+- Parameters: Product Key, Version Number and Connection Details
+- Triggers: Manual
+- Build Scripts: Bash scripts using prpcUtils pega script
 @ulend
 +++
 ## Pega Deployment Pipeline
@@ -30,11 +36,15 @@ Jobs are either bash scripts or python scripts
 +++
 ## Qlik Deployment Jobs
 @ul
-- python scripts using Qlik api's
+- Parameters: App Name, Version Number, Stream Name
+- Trigger: Manual
+- Build Scripts: Python scripts using Qlik api's
 @ulend
 +++
 ## Reporting Template Deployments
-- bash scripts using aws cli
+- Parameters: Branch Name
+- Trigger: BitBucket Webhook
+- Build Scripts: bash scripts using aws cli
 ---
 ## Bitbucket webhooks
 - notify Jenkins when a change has been made
