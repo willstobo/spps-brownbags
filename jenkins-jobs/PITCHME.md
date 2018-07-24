@@ -20,8 +20,8 @@ Jobs are configured with
 - Post Build Scripts
 ---
 ## Deployment Pipelines
-![Pipelines for our major applications](DeploymentPipelines.png)
-+++
+![Pipelines for our major applications](jenkins-jobs/DeploymentPipelines.png)
+---
 ## Pega Deployment Jobs
 @ul
 - Parameters: Product Key, Version Number and Connection Details
@@ -45,7 +45,7 @@ Jobs are configured with
 - Parameters: Branch Name
 - Trigger: BitBucket Webhook
 - Build Scripts: bash scripts using aws cli
----
++++
 ## Bitbucket webhooks
 - notify Jenkins when a change has been made
 ---
