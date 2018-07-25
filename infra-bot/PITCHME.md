@@ -1,3 +1,4 @@
+[comment]: <> (https://gitpitch.com/willstobo/spps-brownbags/master?p=infra-bot)
 # Infra-Bot
 How does it all work?
 ---
@@ -24,11 +25,11 @@ LEX & LAMBDA
 @ulend
 +++
 ### How does it all fit together?
-![INFRA-BOT Structure](Infra-Bot.png)
+![INFRA-BOT Structure](infra-bot/Infra-Bot.png)
 ---
 ## Lets have a look
-+++?code=test.js&title=Lambda Changes
++++?code=infra-bot/test.js&title=Lambda Changes
 @[25-27]test.js First Section of Code
 ---
 # Questions?
-+++?code=PITCHME.md&lang=markdown&title=Extra - Git Pitch is really cool.
++++?code=infra-bot/PITCHME.md&lang=markdown&title=Extra - Git Pitch is really cool.
