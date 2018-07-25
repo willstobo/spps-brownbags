@@ -12,12 +12,19 @@ The link between environments
 - Bitbucket webhooks
 ---
 ## Jenkins
-Our deployment tool for SPPS
 Jobs are configured with 
 - Parameters
 - Triggers
 - Build Scripts
-- Post Build Scripts
+- Post Build Actions
+---
+## Jenkins
+The different types of jobs we have 
+- AutomationTesting
+- Deploy_jobs
+- DevOps
+- FBPR
+- Initialisation_jobs
 ---
 ## Deployment Pipelines
 ![Pipelines for our major applications](jenkins-jobs/DeploymentPipelines.png)
@@ -30,9 +37,7 @@ Jobs are configured with
 @ulend
 +++
 ## Pega Deployment Pipeline
-@ul
-- Groovy Script linking existing jenkins jobs together
-@ulend
+Groovy Script linking existing jenkins jobs together
 +++
 ## Qlik Deployment Jobs
 @ul
@@ -42,11 +47,13 @@ Jobs are configured with
 @ulend
 +++
 ## Reporting Template Deployments
+@ul
 - Parameters: Branch Name
 - Trigger: BitBucket Webhook
 - Build Scripts: bash scripts using aws cli
+@ulend
 +++
 ## Bitbucket webhooks
-- notify Jenkins when a change has been made
+notify Jenkins when a change has been made
 ---
 # Questions?
