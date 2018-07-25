@@ -54,6 +54,6 @@ Groovy Script linking existing jenkins jobs together
 @ulend
 +++
 ## Bitbucket webhooks
-notify Jenkins when a change has been made
+Notify Jenkins when a change has been made
 ---
 # Questions?
