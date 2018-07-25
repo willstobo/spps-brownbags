@@ -1,5 +1,5 @@
 [comment]: <> (https://gitpitch.com/willstobo/spps-brownbags/master?p=jenkins-jobs)
-# Jenkins Jobs
+# Jenkins
 The link between environments
 ---
 ## Contents
@@ -57,3 +57,7 @@ Groovy Script linking existing jenkins jobs together
 Notify Jenkins when a change has been made
 ---
 # Questions?
+---
+# Time To Vote!
+- 2 votes each
+- Must be two different talks
