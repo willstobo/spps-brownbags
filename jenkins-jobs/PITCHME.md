@@ -30,28 +30,22 @@ The different types of jobs we have
 ![Pipelines for our major applications](jenkins-jobs/DeploymentPipelines.png)
 ---
 ## Pega Deployment Jobs
-@ul
 - Parameters: Product Key, Version Number and Connection Details
 - Triggers: Manual
 - Build Scripts: Bash scripts using prpcUtils pega script
-@ulend
 +++
 ## Pega Deployment Pipeline
 Groovy Script linking existing jenkins jobs together
 +++
 ## Qlik Deployment Jobs
-@ul
 - Parameters: App Name, Version Number, Stream Name
 - Trigger: Manual
 - Build Scripts: Python scripts using Qlik api's
-@ulend
 +++
 ## Reporting Template Deployments
-@ul
 - Parameters: Branch Name
 - Trigger: BitBucket Webhook
 - Build Scripts: bash scripts using aws cli
-@ulend
 +++
 ## Bitbucket webhooks
 Notify Jenkins when a change has been made
