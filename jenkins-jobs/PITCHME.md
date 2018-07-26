@@ -9,7 +9,7 @@ The link between environments
 - Pega Deployment Pipeline
 - Qlik Deployment Jobs
 - Reporting Template Deployments
-- Bitbucket webhooks
+- Bitbucket Webhooks
 ---
 ## Jenkins
 Jobs are configured with 
@@ -47,7 +47,7 @@ Groovy Script linking existing jenkins jobs together
 - Trigger: BitBucket Webhook
 - Build Scripts: bash scripts using aws cli
 +++
-## Bitbucket webhooks
+## Bitbucket Webhooks
 Notify Jenkins when a change has been made
 ---
 # Questions?
