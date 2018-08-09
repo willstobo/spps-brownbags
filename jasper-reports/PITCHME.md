@@ -7,7 +7,10 @@
 ---
 ### What it does ?
 ---
-### How does it work ? JRXML AWS PEGA
+### How does it work ? 
+- JRXML
+- AWS
+- PEGA
 ---
 ### Sub Reports
 ---
