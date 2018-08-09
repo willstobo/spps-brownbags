@@ -1,10 +1,20 @@
 [comment]: <> (https://gitpitch.com/willstobo/spps-brownbags/master?p=jasper-reports)
 # Jasper Reports
-How does it all work?
+---
+## Contents
+- Why Jasper ?
+- What it does ?
+-- 
+- 
+-- How does it work?
+- Create JRXML files in Jasper Soft
+- 
+
+- 
 ---
 ## Contents
 @ul
-- Magic
+- Integration
 - Other Stuff
 - Demo
 @ulend
