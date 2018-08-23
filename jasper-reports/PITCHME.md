@@ -1,24 +1,37 @@
 [comment]: <> (https://gitpitch.com/willstobo/spps-brownbags/master?p=jasper-reports)
 # Jasper Reports
 --- 
-### Reporting in Organisations
+### Jasper Soft Installation
+![Jasper Pic1](jasper-reports/Jasper_Installation.JPG)
 ---
-### Why Jasper ?
+### Jasper Reporting Lifecycle
+- Grooming
+- Requirements gathering
+- Checking Existing Report Templates
+- Validation against current PEGA App
 ---
-### What it does ?
+### Example Escrow CR Requirement
+![J1](jasper-reports/Escrow_Req.JPG)
 ---
-### How does it work ? 
-- JRXML
-- AWS
-- PEGA
+### Example Annuity Cessation Requirement
+![J2](jasper-reports/AC.JPG)
 ---
-### Sub Reports
+### Example Escrow Template
+![J3](jasper-reports/Escrow_Template.JPG)
 ---
-### Functions
+### All Column Reference
+![J4](jasper-reports/Column_Reference.JPG)
+---
+### ETL Column Reference
+![J5](jasper-reports/Talend_Select_Queries.JPG)
+---
+### Report template Building
+![J6](jasper-reports/Reporting_Dev_Interface.jpg)
+---
+### PEGA UI Setup
+![J7](jasper-reports/PEGA_UI.JPG)
 ---
 ### ETL for Reporting
----
-### New Reports Process
 ---
 ### Deployment
 ---
@@ -27,3 +40,5 @@
 ### Formatting Challenges
 ---
 # Questions?
+
+https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v640/installing-jaspersoft-studio
