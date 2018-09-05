@@ -1,5 +1,5 @@
 [comment]: <> (https://gitpitch.com/willstobo/spps-brownbags/master?p=dr-alerto-and-the-ghost)
-# DrAlerto And the Ghost
+# Dr Alerto And the Ghost
 Bringing Alerts to Slack
 ---
 ## Contents
@@ -9,21 +9,14 @@ Bringing Alerts to Slack
 - Zapier - DrAlerto
 ---
 ## What do they do?
-+++
+---
 ## Architecture Overview
-@ul
-- Nicole's Ghost
-- DrAlerto
-@ulend
+![Alerts to Slack overview](dr-alerto-and-the-ghost/overview.png)
 +++
 ## Microsoft Flow - Nicole's Ghost
-@ul
-- Office 365 App
-@ulend
+![Alerts to Slack overview](dr-alerto-and-the-ghost/ghost.png)
 +++
 ### Zapier - DrAlerto
-@ul
-- Zapier - same as HeyTaco
-@ulend
-![INFRA-BOT Structure](infra-bot/Infra-Bot.png)
+![Alerts to Slack overview](dr-alerto-and-the-ghost/dralerto.png)
+---
 # Questions?
