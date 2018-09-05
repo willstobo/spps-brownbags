@@ -24,7 +24,7 @@ Monitor my emails and send an alert to slack
 ![ghost slack change](dr-alerto-and-the-ghost/ghost-slack-change.png)
 ![ghost slack incident](dr-alerto-and-the-ghost/ghost-slack-incident.png)
 ---
-### Zapier - DrAlerto
+### Zapier - Dr Alerto
 ![Dr Alerto overview](dr-alerto-and-the-ghost/dralerto.png)
 +++
 ### Zapier - Job Config
