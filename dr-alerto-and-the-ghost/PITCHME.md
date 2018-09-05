@@ -19,11 +19,18 @@ Monitor my emails and send an alert to slack
 +++
 ## Microsoft Flow - Job Config
 ![ghost overview](dr-alerto-and-the-ghost/flow.png)
++++
+## Microsoft Flow - Slack
+![ghost overview](dr-alerto-and-the-ghost/ghost-slack-change.png)
+![ghost overview](dr-alerto-and-the-ghost/ghost-slack-incident.png)
 ---
 ### Zapier - DrAlerto
 ![Dr Alerto overview](dr-alerto-and-the-ghost/dralerto.png)
 +++
 ### Zapier - Job Config
 ![Dr Alerto overview](dr-alerto-and-the-ghost/zapier.png)
++++
+### Zapier - Slack
+![Dr Alerto overview](dr-alerto-and-the-ghost/alerto-slack.png)
 ---
 # Questions?
