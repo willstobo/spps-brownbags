@@ -14,9 +14,9 @@ Bringing Alerts to Slack
 ![Alerts to Slack overview](dr-alerto-and-the-ghost/overview.png)
 +++
 ## Microsoft Flow - Nicole's Ghost
-![Alerts to Slack overview](dr-alerto-and-the-ghost/ghost.png)
+![ghost overview](dr-alerto-and-the-ghost/ghost.png)
 +++
 ### Zapier - DrAlerto
-![Alerts to Slack overview](dr-alerto-and-the-ghost/dralerto.png)
+![Dr Alerto overview](dr-alerto-and-the-ghost/dralerto.png)
 ---
 # Questions?
