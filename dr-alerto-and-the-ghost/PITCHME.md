@@ -9,14 +9,21 @@ Bringing Alerts to Slack
 - Zapier - DrAlerto
 ---
 ## What do they do?
+Monitor my emails and send an alert to slack
 ---
 ## Architecture Overview
 ![Alerts to Slack overview](dr-alerto-and-the-ghost/overview.png)
-+++
+---
 ## Microsoft Flow - Nicole's Ghost
 ![ghost overview](dr-alerto-and-the-ghost/ghost.png)
 +++
+## Microsoft Flow - Job Config
+![ghost overview](dr-alerto-and-the-ghost/flow.png)
+---
 ### Zapier - DrAlerto
 ![Dr Alerto overview](dr-alerto-and-the-ghost/dralerto.png)
++++
+### Zapier - Job Config
+![Dr Alerto overview](dr-alerto-and-the-ghost/zapier.png)
 ---
 # Questions?
