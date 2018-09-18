@@ -3,33 +3,49 @@
 How does it all work?
 ---
 ## Contents
-- What is accessibility
-- How it all fits together
+- Main Components
+- Tools
 - Demo
 ---
-## AWS Services
-LEX & LAMBDA
+## Acessibility Components
+TEXT, COLOUR, NAVIGATION
 +++
-## Lex
+## Text
 @ul
 - Builds conversational interfaces
 - Automatic speech recognition (ASR)
-- Natural language understanding (NLU)
+- 
 @ulend
 +++
-## Lambda
+## Colour
 @ul
 - Serverless Computing
 - Pay for only what you use
 - Supports Node.js, Python, Java, C#, Go
 @ulend
 +++
-### How does it all fit together?
-![INFRA-BOT Structure](infra-bot/Infra-Bot.png)
+## Navigation
+@ul
+- Serverless Computing
+- Pay for only what you use
+- Supports Node.js, Python, Java, C#, Go
+@ulend
++++
+### Tools
+
+Text Assistace
+https://www.paciellogroup.com/resources/wat/
+
+Colour Assistace
+https://contrastchecker.com/
+https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
+http://colorsafe.co/
+
+Screen Reader
+JAWS
+Google ChromeVox
 ---
-## Lets have a look
-+++?code=infra-bot/test.js&title=Lambda Changes
-@[25-27]test.js First Section of Code
+## Demo
 ---
 # Questions?
-+++?code=infra-bot/PITCHME.md&lang=markdown&title=Extra - Git Pitch is really cool.
+
