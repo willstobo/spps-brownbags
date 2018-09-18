@@ -1,9 +1,9 @@
-[comment]: <> (https://gitpitch.com/willstobo/spps-brownbags/master?p=infra-bot)
-# Infra-Bot
+[comment]: <> (https://gitpitch.com/willstobo/spps-brownbags/master?p=accessibility)
+# Accessibility 
 How does it all work?
 ---
 ## Contents
-- AWS Services
+- What is accessibility
 - How it all fits together
 - Demo
 ---
