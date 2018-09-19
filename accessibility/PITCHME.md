@@ -32,11 +32,10 @@ TEXT, COLOUR, NAVIGATION
 @ulend
 +++
 ### Tools
-
-Text Assistace
-https://www.paciellogroup.com/resources/wat/
-
-Colour Assistace
+@ul
+- Text Assistace 
+	- https://www.paciellogroup.com/resources/wat/
+- Colour Assistace
 https://contrastchecker.com/
 https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
 http://colorsafe.co/
