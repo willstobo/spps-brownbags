@@ -12,37 +12,25 @@ TEXT, COLOUR, NAVIGATION
 +++
 ## Text
 @ul
-- Builds conversational interfaces
-- Automatic speech recognition (ASR)
-- 
+- Text Assistace 
+	- https://www.paciellogroup.com/resources/wat/
 @ulend
 +++
 ## Colour
 @ul
-- Serverless Computing
-- Pay for only what you use
-- Supports Node.js, Python, Java, C#, Go
+- Colour Assistace
+	- https://contrastchecker.com/
+	- https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
+	- http://colorsafe.co/- 
 @ulend
 +++
 ## Navigation
 @ul
-- Serverless Computing
-- Pay for only what you use
-- Supports Node.js, Python, Java, C#, Go
+- Screen Reader
+	- JAWS
+	- Google ChromeVox
+	- NVDA
 @ulend
-+++
-### Tools
-@ul
-- Text Assistace 
-	- https://www.paciellogroup.com/resources/wat/
-- Colour Assistace
-https://contrastchecker.com/
-https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
-http://colorsafe.co/
-
-Screen Reader
-JAWS
-Google ChromeVox
 ---
 ## Demo
 ---
