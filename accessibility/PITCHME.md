@@ -3,11 +3,10 @@
 How does it all work?
 ---
 ## Contents
-- Main Components
-- Tools
+- Main Components & Tools
 - Demo
 ---
-## Acessibility Components
+## Acessibility Components & Tools
 TEXT, COLOUR, NAVIGATION
 +++
 ## Text
@@ -30,6 +29,7 @@ TEXT, COLOUR, NAVIGATION
 	- JAWS
 	- Google ChromeVox
 	- NVDA
+	- Apple VoiceOver
 @ulend
 ---
 ## Demo
