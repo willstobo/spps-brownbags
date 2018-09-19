@@ -20,7 +20,7 @@ TEXT, COLOUR, NAVIGATION
 - Colour Assistace
 	- https://contrastchecker.com/
 	- https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
-	- http://colorsafe.co/- 
+	- http://colorsafe.co/
 @ulend
 +++
 ## Navigation
