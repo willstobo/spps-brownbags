@@ -7,13 +7,7 @@ How does it all work?
 - Demo
 ---
 ## Acessibility Components & Tools
-TEXT, COLOUR, NAVIGATION
-+++
-## Text
-@ul
-- Text Assistace 
-	- https://www.paciellogroup.com/resources/wat/
-@ulend
+COLOUR, TEXT, NAVIGATION
 +++
 ## Colour
 @ul
@@ -21,6 +15,12 @@ TEXT, COLOUR, NAVIGATION
 	- https://contrastchecker.com/
 	- https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/
 	- http://colorsafe.co/
+@ulend
++++
+## Text
+@ul
+- Text Assistace 
+	- https://www.paciellogroup.com/resources/wat/
 @ulend
 +++
 ## Navigation
