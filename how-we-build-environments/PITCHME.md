@@ -3,18 +3,17 @@
 Lifting the fog on infrastructure as code.
 ---
 ## So how do we build environments? 
-Infrastructure as Code!
 +++
 ### LETS
 ## FIND
 # OUT
 +++
-## What is IaC?
+## What is Infrastructure as Code?
 @ul
-- One method of managing infrastructure resources.
-- Defining and configuring infrastructure resources from a file.
-- Requires:
-    - The config file 
+- Method of managing infrastructure resources.
+- Define and configure resources from a file.
+- Using:
+    - A config file 
     - A service to read and provision resources based on that file 
 @ulend
 +++
@@ -31,7 +30,7 @@ AWS CloudFormation!
 ## What? Why CloudFormation?
 @ul
 - AWS Service to provision AWS resources.
-- Cloud Magic
+- Each cloud provider offers their own service.
 @ulend
 +++
 ## How does it work?
