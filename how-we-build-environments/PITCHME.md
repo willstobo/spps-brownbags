@@ -14,8 +14,8 @@ Whats so good about it?
 - One method of managing infrastructure resources.
 - Code that defines and configures the infrastructure resources to be built.
 - Requires:
-- - a config file 
-- - a service to read and provision resources based on that file 
+-- a config file 
+-- a service to read and provision resources based on that file 
 @ulend
 +++
 ## AWS CloudFormation
