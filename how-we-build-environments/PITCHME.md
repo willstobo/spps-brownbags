@@ -59,7 +59,9 @@ What are those?
 @ulend
 +++
 ## 3. What stacks have we got?
+A typical environment...
 ![Environments for days](how-we-build-environments/ProdEnvStacks.png)
+---
 - 41 Stacks to create SPPS from an empty AWS account.
 - 15 Stacks per shared environment. (ST/STRPT/ST-Auto/UAT5/6/7)
 ---
