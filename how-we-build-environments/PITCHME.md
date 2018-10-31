@@ -3,7 +3,7 @@
 Lifting the fog on infrastructure as code.
 ---
 ## So how do we build environments? 
-- Infrastructure as Code!
+Infrastructure as Code!
 +++
 ### LETS
 ## FIND
@@ -49,11 +49,17 @@ Lifting the fog on infrastructure as code.
 @[19-21]test.template
 +++
 ## 2. CloudFormation Stacks? 
-### What are those?
-- Such management
-- Much wow
+What are those?
+@ul
+- Logical Grouping of Resources
+    - For creation and deletion 
+- Provides visibility of provisioned resources
+- Highlights changes prior to updating
+- Automated rollback
+@ulend
 +++
 ## 3. What stacks have we got?
-Environments for days
-16 Per Env
+![Environments for days](how-we-build-environments/ProdEnvStacks.png)
+---
+15 Per Env
 41 for Blank AWS
