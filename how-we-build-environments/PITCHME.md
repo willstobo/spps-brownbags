@@ -2,8 +2,8 @@
 # Building Environments
 Lifting the fog on infrastructure as code.
 ---
-# Environments? Infrastructure as Code? Fog?
-What are those?
+## Infrastructure as Code? What?
+Fundamental block of the 'Cloud'
 +++
 ### LETS
 ## FIND
