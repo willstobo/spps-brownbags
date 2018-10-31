@@ -10,9 +10,8 @@ Lifting the fog on infrastructure as code.
 # OUT
 +++
 ## AWS CloudFormation
-Forget server stacks, we got CloudFormation stacks.
 @ul
-- Fundamental block of the Cloud Infrastructure
+- Forget server stacks, we got CloudFormation stacks.
 - Write code, get servers.
 - Cloud Magic
 @ulend
