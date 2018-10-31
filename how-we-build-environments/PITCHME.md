@@ -2,7 +2,8 @@
 # Building Environments
 Lifting the fog on infrastructure as code.
 ---
-# HOW DOES IT WORK YO
-## LETS
-### FIND
-#### Out
+# HOW DOES IT WORK YO.
++++
+## LETS.
+### FIND.
+#### OUT.
