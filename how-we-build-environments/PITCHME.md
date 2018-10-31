@@ -26,7 +26,7 @@ Infrastructure as Code!
 @ulend
 ---
 ## So what do we use here at PTV?
-- AWS CloudFormation
+AWS CloudFormation!
 ---
 ## What? Why CloudFormation?
 @ul
@@ -61,7 +61,10 @@ What are those?
 ## 3. What stacks have we got?
 ![Environments for days](how-we-build-environments/ProdEnvStacks.png)
 ---
-- 41 Stacks to create SPPS from an empty AWS account.
-- 15 Stacks per shared environment. (ST/STRPT/ST-Auto/UAT5/6/7)
+## That was how many?
+- 41 Stacks to create SPPS
+    - From an empty AWS account
+- 15 Stacks per shared environment 
+    - ST, STRPT, ST-Auto, UAT5, UAT6, UAT7
 ---
-
+# Questions?
