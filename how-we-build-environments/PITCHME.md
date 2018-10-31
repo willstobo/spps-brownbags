@@ -23,7 +23,7 @@ Lifting the fog on infrastructure as code.
 - Source Control
 - DevOps and automation
 @ulend
----
++++
 ## So what do we use here at PTV?
 AWS CloudFormation!
 ---
