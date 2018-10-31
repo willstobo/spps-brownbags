@@ -31,7 +31,6 @@ Lifting the fog on infrastructure as code.
 ## What? Why CloudFormation?
 @ul
 - AWS Service to provision AWS resources.
-
 - Cloud Magic
 @ulend
 +++
@@ -41,13 +40,19 @@ Lifting the fog on infrastructure as code.
 - Tell CloudFormation to build a stack using the template.
 - Acquire AWS Resources!
 @olend
-+++?code=how-we-build-environments/test.js&title=1. What is a CloudFormation template?
-@[25-27]test.js First Section of Code
++++?code=how-we-build-environments/test.template&title=1. What is a CloudFormation template?
+@[4-6]test.template
+@[7-9]test.template
+@[10-12]test.template
+@[13-15]test.template
+@[16-18]test.template
+@[19-21]test.template
 +++
-## 2. CloudFormation Stacks? What are those?
+## 2. CloudFormation Stacks? 
+### What are those?
 - Such management
 - Much wow
----
++++
 ## 3. What stacks have we got?
 Environments for days
 16 Per Env
