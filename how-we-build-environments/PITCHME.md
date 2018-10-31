@@ -59,7 +59,8 @@ What are those?
 @ulend
 +++
 ## 3. What stacks have we got?
+- 15 Per Env
+- 41 for Blank AWS
 ![Environments for days](how-we-build-environments/ProdEnvStacks.png)
 ---
-15 Per Env
-41 for Blank AWS
+
