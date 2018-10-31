@@ -59,7 +59,7 @@ What are those?
 +++
 ## 3. What stacks have we got?
 ![Environments for days](how-we-build-environments/ProdEnvStacks.png)
----
++++
 ## That was how many?
 - 41 Stacks to create SPPS
     - From an empty AWS account
