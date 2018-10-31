@@ -21,7 +21,7 @@ Lifting the fog on infrastructure as code.
 @ul
 - Coding Practices for infrastructure
 - Source Control
-- DevOps
+- DevOps and automation
 @ulend
 ---
 ## So what do we use here at PTV?
