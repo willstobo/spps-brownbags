@@ -4,6 +4,6 @@ Lifting the fog on infrastructure as code.
 ---
 # HOW DOES IT WORK YO.
 +++
-## LETS.
-### FIND.
-#### OUT.
+# LETS.
+## FIND.
+### OUT.
