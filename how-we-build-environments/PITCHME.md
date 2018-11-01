@@ -31,6 +31,8 @@ AWS CloudFormation!
 @ul
 - AWS Service to provision AWS resources.
 - Each cloud provider offers their own service.
+    - Azure Resource Manager
+    - Google Cloud Deployment Manager
 @ulend
 +++
 ## How does it work?
